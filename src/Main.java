@@ -17,5 +17,11 @@ public class Main {
                 """ + yearOfRelease;
         System.out.println(sinopse);
 
+        int classification;
+        classification = (int) (movieRating /2);
+        System.out.println(classification);
+
+
+
         }
     }
