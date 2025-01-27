@@ -14,7 +14,7 @@ Bem-vindo ao **Projeto Java 01**! Este projeto é uma aplicação Java desenvolv
 
 ## Descrição
 
-[Projeto que realiza consulta de filmes utilizando a API OMDb.]
+[Projeto utiliza como linguagem principal o Java para realizar consultas de filmes utilizando a API OMDb.]
 
 ## Funcionalidades
 
